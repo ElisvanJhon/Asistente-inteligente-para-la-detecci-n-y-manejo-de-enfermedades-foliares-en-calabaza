@@ -1,0 +1,1 @@
+# Asistente-inteligente-para-la-detecci-n-y-manejo-de-enfermedades-foliares-en-calabaza
