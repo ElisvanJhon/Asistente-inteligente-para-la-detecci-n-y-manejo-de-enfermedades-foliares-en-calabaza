@@ -1,0 +1,6 @@
+ultralytics==8.3.*
+google-genai==1.*
+chromadb==0.5.*
+sentence-transformers==3.*
+python-dotenv==1.*
+gradio==5.*
