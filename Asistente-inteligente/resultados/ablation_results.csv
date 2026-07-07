@@ -1,0 +1,251 @@
+clase,confianza,pregunta,respuesta_con_rag,respuesta_sin_rag
+Bacterial_Leaf_Spot,83.0,¿Qué tratamiento le doy?,"Hola. Según el análisis de la imagen, tus calabazas tienen **Mancha Bacteriana de la Hoja** (Bacterial Leaf Spot) con una confianza del 83.0%.
+
+Respecto al tratamiento, es importante que sepas que **no existen curas químicas efectivas contra esta bacteria una vez que la infección ya está establecida**. El manejo se enfoca principalmente en la prevención y en prácticas culturales para controlar su propagación.
+
+Aquí te dejo los pasos que puedes seguir:
+
+**Manejo y Prevención:**
+
+*   **Riego:** Evita el riego por aspersión (el que moja las hojas). Es mejor usar riego por goteo para que el agua no salpique y disperse la bacteria.
+*   **Eliminar plantas enfermas:** Quita y destruye (no uses para compost) cualquier material vegetal que esté infectado.
+*   **Rotación de cultivos:** No plantes calabazas ni otras cucurbitáceas en la misma parcela por al menos 2 años. Rota con otros tipos de cultivos.
+*   **Semillas:** Asegúrate de usar siempre semillas certificadas que estén libres de patógenos.
+*   **Trabajo en el cultivo:** Evita trabajar en el campo cuando las hojas estén mojadas, ya que puedes dispersar la bacteria con tus manos o herramientas.
+*   **Espaciamiento:** Mantén una buena distancia entre las plantas para que el aire circule mejor y las hojas se sequen más rápido, reduciendo la humedad.
+
+**Opciones preventivas (en etapas tempranas):**
+
+*   **Productos a base de cobre:** Las aplicaciones preventivas de productos que contienen cobre pueden ayudar a reducir la propagación de la enfermedad en sus primeras etapas. Siempre debes seguir las instrucciones de la etiqueta del producto y las regulaciones locales.
+*   **Consulta profesional:** Te recomiendo consultar con un ingeniero agrónomo de tu zona para que te dé recomendaciones específicas sobre productos autorizados y las mejores prácticas para tu región.","El modelo de visión ha detectado **Mancha Bacteriana en las hojas** de su calabaza con una confianza del 83%. Esta es una enfermedad causada por bacterias que puede afectar seriamente las hojas y, si no se maneja, la producción de sus calabazas.
+
+Para el tratamiento y manejo de la Mancha Bacteriana, le sugiero los siguientes pasos prácticos:
+
+1.  **Eliminación de hojas afectadas:** Retire y destruya las hojas que muestren síntomas de manchas. Esto es crucial para reducir la fuente de infección y evitar que la enfermedad se propague a otras partes de la planta o a plantas sanas. No las deje en el suelo del cultivo.
+2.  **Manejo del riego:** Riegue sus calabazas por la mañana temprano y directamente al suelo, evitando mojar las hojas. Las bacterias se propagan fácilmente en condiciones de humedad foliar prolongada. El riego por goteo es ideal para esto.
+3.  **Espaciamiento y ventilación:** Asegúrese de que sus plantas tengan suficiente espacio entre ellas para una buena circulación de aire. Esto ayuda a que las hojas se sequen más rápido y reduce las condiciones favorables para la bacteria.
+4.  **Rotación de cultivos:** Para futuras siembras, evite plantar calabazas o cultivos relacionados (como pepinos, melones) en la misma parcela durante al menos 2-3 años. Esto ayuda a romper el ciclo de vida de la bacteria en el suelo.
+5.  **Productos a base de cobre:** Puede considerar la aplicación de productos bactericidas a base de cobre. Estos pueden ayudar a proteger las hojas nuevas y reducir la propagación de la enfermedad. Es muy importante que siga siempre las instrucciones de la etiqueta del producto para la dosis y frecuencia de aplicación. Lo ideal es aplicarlos preventivamente o al inicio de la enfermedad.
+6.  **Limpieza de herramientas:** Desinfecte sus herramientas de poda y trabajo después de usarlas en plantas infectadas para evitar la propagación a plantas sanas. Puede usar una solución de lejía diluida (1 parte de lejía por 9 partes de agua)."
+Bacterial_Leaf_Spot,83.0,¿Es contagioso para otras plantas del cultivo?,"Hola. Según el diagnóstico, tus calabazas tienen **Mancha bacteriana de la hoja** con una confianza del 83.0%.
+
+Sí, esta enfermedad es contagiosa y puede propagarse a otras plantas de tu cultivo.
+
+**¿Cómo se propaga?**
+El patógeno se dispersa principalmente por:
+*   **Agua:** Lluvia o riego por aspersión pueden salpicar la bacteria de una planta a otra.
+*   **Herramientas contaminadas:** Si usas herramientas que han estado en contacto con plantas enfermas y luego las usas en plantas sanas.
+*   **Semilla infectada:** La enfermedad puede venir ya en la semilla.
+
+**Para manejarla y evitar que se siga extendiendo, te sugiero lo siguiente:**
+*   **Riego:** Evita el riego por aspersión. Es mejor usar riego por goteo para que el agua no salpique y disperse la bacteria.
+*   **Elimina plantas enfermas:** Quita y destruye (no las pongas en el compost) las plantas o partes de plantas que veas infectadas.
+*   **No trabajes con follaje mojado:** Evita manipular las plantas cuando las hojas estén mojadas, ya que esto facilita la dispersión de la bacteria con tus manos o herramientas.
+*   **Espaciamiento:** Asegúrate de que haya suficiente espacio entre tus plantas para que el aire circule bien y el follaje se seque más rápido, reduciendo la humedad.
+
+Dado que la confianza del diagnóstico es buena (83.0%), puedes empezar a aplicar estas medidas.","Hola,
+
+Según el análisis, tus plantas de calabaza tienen **Mancha Bacteriana de la Hoja (Bacterial Leaf Spot)** con una confianza del 83.0%.
+
+**Sí, esta enfermedad es contagiosa para otras plantas de calabaza en tu cultivo.** Las bacterias pueden propagarse fácilmente a través del agua (lluvia, riego por aspersión), el viento, las herramientas de trabajo y el contacto con plantas infectadas.
+
+Para evitar que se propague y manejar la enfermedad, te sugiero lo siguiente:
+
+*   **Retira y destruye las partes de la planta afectadas:** Corta y elimina las hojas o plantas severamente infectadas para reducir la fuente de bacterias. No las compostes, deséchalas lejos del cultivo.
+*   **Evita trabajar con las plantas cuando estén mojadas:** Manipular las plantas cuando están húmedas puede ayudar a esparcir las bacterias.
+*   **Desinfecta tus herramientas:** Limpia tus tijeras de podar y otras herramientas con una solución de lejía diluida (1 parte de lejía por 9 partes de agua) o alcohol entre cada planta para evitar la propagación.
+*   **Riega por goteo o a nivel del suelo:** Evita el riego por aspersión que moja las hojas, ya que el agua es un vector importante para la propagación de bacterias.
+*   **Considera tratamientos con cobre:** Algunos productos a base de cobre pueden ayudar a controlar la propagación de enfermedades bacterianas. Consulta con un especialista local para la dosis y aplicación correctas.
+*   **Rotación de cultivos:** En futuras temporadas, evita plantar calabazas u otras cucurbitáceas en la misma área donde hubo infección, ya que las bacterias pueden sobrevivir en el suelo o en restos de plantas."
+Bacterial_Leaf_Spot,83.0,¿Puedo seguir cosechando mientras la trato?,"Hola. Según lo que veo, tu calabaza tiene **Bacterial Leaf Spot** con una confianza del 83.0%.
+
+Respecto a tu pregunta sobre si puedes seguir cosechando mientras la tratas, el contexto no lo prohíbe explícitamente, pero hay algunos puntos importantes a considerar:
+
+1.  **Frutos Afectados:** La enfermedad puede aparecer también en los frutos como ""lesiones acuosas"". Si encuentras frutos con estos síntomas, **no debes cosecharlos** para consumo o venta, ya que su calidad estará comprometida y podrían contribuir a la propagación de la bacteria.
+2.  **Tratamiento y Cosecha:**
+    *   Las medidas de manejo son principalmente preventivas y culturales (como eliminar material infectado, evitar riego por aspersión, rotar cultivos). Estas acciones no impiden la cosecha de frutos sanos.
+    *   Si decides aplicar productos a base de cobre (que son para reducir la propagación en etapas tempranas, no una cura), es **fundamental que sigas al pie de la letra las indicaciones de la etiqueta del producto**. Esto incluye respetar el ""periodo de seguridad"" o ""intervalo de pre-cosecha"" (PHI) que indica cuánto tiempo debe pasar entre la aplicación y la cosecha para que los frutos sean seguros.
+
+En resumen, puedes seguir cosechando los frutos que estén visiblemente sanos, pero debes ser muy cuidadoso en inspeccionarlos. Desecha cualquier fruto que muestre síntomas de la enfermedad. Si aplicas algún producto, asegúrate de cumplir con los tiempos de espera antes de cosechar.","Se ha detectado **Mancha Bacteriana (Bacterial_Leaf_Spot)** en sus calabazas con una confianza del 83%.
+
+Respecto a su pregunta sobre si puede seguir cosechando mientras trata la enfermedad, la información proporcionada por este diagnóstico se enfoca únicamente en la identificación de la enfermedad en las hojas y **no incluye detalles específicos sobre el impacto en la seguridad de la cosecha o si es recomendable continuarla durante el tratamiento.**
+
+Para tomar una decisión informada sobre la cosecha y el manejo de la Mancha Bacteriana, le recomendaría consultar una fuente especializada en el manejo de esta enfermedad en calabazas que pueda ofrecerle pautas específicas sobre la seguridad del fruto y las prácticas de cosecha mientras gestiona la enfermedad."
+Bacterial_Leaf_Spot,83.0,¿Cuánto tiempo tarda en curarse o controlarse?,"Hola.
+
+Tu calabaza tiene **Mancha Bacteriana de la Hoja (Bacterial Leaf Spot)**, con una confianza del 83%.
+
+Respecto a tu pregunta sobre cuánto tiempo tarda en curarse o controlarse, es importante que sepas que **no existen curas químicas efectivas contra esta bacteria una vez que la infección ya está establecida**. Esto significa que no hay un tratamiento que elimine la enfermedad por completo en un tiempo determinado una vez que las plantas están infectadas.
+
+El manejo de esta enfermedad es principalmente **preventivo y cultural**, enfocado en evitar que se propague y en reducir su impacto.
+
+Aquí te dejo los pasos concretos que puedes seguir para manejarla, basándome en la información disponible:
+
+**Manejo y Prevención (para controlar la propagación):**
+*   **Elimina las plantas infectadas:** Retira y destruye (no las uses para compost) cualquier material vegetal que veas infectado.
+*   **Evita el riego por aspersión:** Usa riego por goteo para que el agua no salpique y disperse la bacteria.
+*   **No trabajes con el follaje mojado:** Evita manipular las plantas (podar, cosechar, etc.) cuando las hojas estén húmedas, ya que esto puede dispersar la bacteria con tus manos o herramientas.
+*   **Mantén buen espaciamiento:** Asegúrate de que haya suficiente espacio entre tus plantas para mejorar la circulación del aire y reducir la humedad en las hojas.
+*   **Rotación de cultivos:** En el futuro, rota tus cultivos con plantas que no sean de la familia de las calabazas (no cucurbitáceas) por al menos 2 años.
+*   **Semilla certificada:** Siempre que sea posible, usa semilla certificada que garantice estar libre de patógenos.
+
+**Tratamiento (para reducir la propagación temprana):**
+*   Aunque no hay una cura, las aplicaciones preventivas de **productos a base de cobre** pueden ayudar a reducir la propagación si la infección está en sus etapas iniciales. Si decides usarlos, sigue siempre las indicaciones de la etiqueta del producto y las normativas de tu región.
+*   Te recomiendo **consultar con un ingeniero agrónomo local** para que te dé recomendaciones específicas sobre productos autorizados y las mejores prácticas en tu zona.
+
+En resumen, no hay un ""tiempo de curación"" para esta enfermedad. El objetivo es controlar su avance y proteger las plantas sanas a través de un manejo constante y preventivo.","Hola.
+
+Según el análisis, se ha detectado la enfermedad **Mancha Bacteriana de la Hoja (Bacterial Leaf Spot)** en sus calabazas, con una confianza del 83%.
+
+Respecto a su pregunta sobre cuánto tiempo tarda en curarse o controlarse, la información disponible en este momento no especifica una duración exacta para la recuperación o el control de esta enfermedad. El contexto proporcionado no incluye detalles sobre los tiempos de recuperación o los pasos específicos de manejo para la Mancha Bacteriana de la Hoja.
+
+Para un manejo efectivo, le recomendaría buscar información específica sobre las prácticas de control para la Mancha Bacteriana de la Hoja en calabazas, que suelen incluir medidas culturales y, en algunos casos, el uso de productos específicos."
+Bacterial_Leaf_Spot,83.0,¿Qué la causó?,"Hola.
+
+Según el análisis de la imagen, tu calabaza tiene **Mancha bacteriana de la hoja (Bacterial Leaf Spot)**, con una confianza del 83.0%.
+
+Esta enfermedad es causada por una **bacteria**.
+
+**¿Qué la causó?**
+La bacteria se propaga principalmente por:
+*   **Agua:** Lluvia o riego por aspersión que salpica y lleva la bacteria de una planta a otra.
+*   **Herramientas contaminadas:** Si usas herramientas que estuvieron en contacto con plantas enfermas y luego las usas en plantas sanas.
+*   **Semilla infectada:** Si las semillas que plantaste ya estaban contaminadas con la bacteria.
+
+La enfermedad se desarrolla mejor cuando hay **mucha humedad** (por ejemplo, después de lluvias o riegos frecuentes) y **temperaturas templadas a cálidas**.
+
+**Para manejarla, te sugiero lo siguiente:**
+*   **Riego:** Evita regar por aspersión. Es mejor usar riego por goteo para que el agua llegue directamente a la tierra y no salpique las hojas.
+*   **Eliminar plantas enfermas:** Quita y destruye (no uses para compost) las partes de la planta o las plantas enteras que veas infectadas.
+*   **Rotación de cultivos:** No plantes calabazas ni otras cucurbitáceas en el mismo lugar por al menos 2 años. Rota con otros tipos de cultivos.
+*   **Semillas:** Usa siempre semillas certificadas que garanticen que están libres de enfermedades.
+*   **Evita trabajar con follaje mojado:** No manipules las plantas (podar, cosechar, etc.) cuando las hojas estén mojadas, ya que esto puede esparcir la bacteria.
+*   **Espaciamiento:** Asegúrate de que las plantas tengan suficiente espacio entre ellas para que el aire circule bien y las hojas se sequen más rápido.","Hola, agricultor.
+
+El diagnóstico indica que tus calabazas tienen **Mancha Bacteriana de la Hoja** (Bacterial Leaf Spot) con una confianza del 83.0%.
+
+¿Qué la causó?
+Como su nombre lo sugiere, esta enfermedad es causada por **bacterias**.
+
+Aunque el diagnóstico no especifica la especie exacta de bacteria que la causa ni los factores ambientales precisos que favorecen su desarrollo o propagación, en general, las enfermedades bacterianas como esta se dispersan fácilmente a través del agua (lluvia, riego por aspersión) y el viento. También pueden sobrevivir en los restos de plantas infectadas o en semillas.
+
+Para manejar esta situación y ayudar a prevenir su propagación, te sugiero los siguientes pasos prácticos:
+
+*   **Evita el riego por aspersión:** Riega directamente al suelo (riego por goteo o a pie de planta) para mantener las hojas secas, ya que la humedad prolongada en el follaje favorece la dispersión y el desarrollo de las bacterias.
+*   **Mejora la circulación de aire:** Asegura que las plantas no estén demasiado juntas para reducir la humedad en el follaje y permitir que las hojas se sequen más rápido.
+*   **Saneamiento:** Retira y destruye las hojas y plantas severamente infectadas tan pronto como las detectes para reducir la fuente de inóculo (las bacterias) en tu cultivo. No las compostes, ya que las bacterias pueden sobrevivir.
+*   **Rotación de cultivos:** No plantes calabazas ni otros cultivos de la misma familia (como pepinos, melones o sandías) en el mismo lugar el próximo año. Esto ayuda a romper el ciclo de vida de las bacterias que puedan quedar en el suelo."
+Downy_Mildew,85.0,¿Qué tratamiento le doy?,"Hola. Según la imagen, tu calabaza tiene **Mildiú velloso** (Downy Mildew), con una confianza del 85%.
+
+Esta enfermedad es causada por un microorganismo que necesita mucha humedad y que las hojas estén mojadas para poder infectar. Se dispersa fácilmente por el viento y el agua.
+
+Para tratarla, te sugiero lo siguiente:
+
+**Tratamiento directo:**
+*   Puedes usar **fungicidas preventivos a base de cobre** o productos específicos para este tipo de microorganismos (oomicetos). Es importante aplicarlos antes de que la infección esté muy avanzada.
+*   Para evitar que el patógeno se vuelva resistente, es bueno **rotar los fungicidas**, usando productos con diferentes modos de acción.
+*   Es crucial **monitorear tus plantas con frecuencia**, especialmente cuando hay mucha humedad, ya que esta enfermedad puede avanzar muy rápido.
+*   **Consulta con un ingeniero agrónomo local** para que te recomiende las dosis exactas y los productos autorizados en tu región.
+
+**Manejo para ayudar a controlar la enfermedad:**
+*   **Mejora la ventilación** entre tus plantas. Asegúrate de que estén bien espaciadas y considera podar las hojas bajas si están muy densas.
+*   **Riega tus plantas temprano en la mañana** para que el follaje tenga tiempo de secarse durante el día.
+*   **Evita regar por aspersión durante la noche**.
+*   **Elimina los residuos de cosecha** y cualquier hoja que veas infectada.
+*   Si tienes la oportunidad, considera usar **variedades de calabaza que sean tolerantes** a mildiú velloso en futuras siembras.","Hola. El modelo de visión ha detectado **Mildiú Velloso (Downy Mildew)** en tus calabazas con una confianza del 85%.
+
+Respecto al tratamiento, para poder darte recomendaciones específicas y los productos adecuados, **necesitaría tener acceso a información detallada sobre las opciones de manejo y los tratamientos fitosanitarios recomendados para el Mildiú Velloso.**
+
+Dado que no dispongo de esa información específica en mi contexto actual, te sugiero lo siguiente:
+
+1.  **Consulta a un agrónomo local o a tu oficina de extensión agrícola:** Ellos son la mejor fuente para obtener recomendaciones de tratamiento específicas para tu región. Podrán indicarte los productos fungicidas autorizados y efectivos contra el Mildiú Velloso en calabazas, así como las dosis y los momentos de aplicación correctos.
+2.  **Confirma visualmente:** Aunque la confianza es alta, siempre es bueno hacer una revisión visual para asegurarte de que los síntomas coinciden con el Mildiú Velloso (generalmente manchas amarillas angulares en el haz de las hojas que se vuelven necróticas, y un crecimiento velloso grisáceo o purpúreo en el envés, especialmente en condiciones de humedad).
+
+Lamento no poder darte el nombre de un tratamiento específico en este momento, pero la consulta con un experto local te garantizará la mejor estrategia para proteger tus cultivos."
+Downy_Mildew,85.0,¿Es contagioso para otras plantas del cultivo?,"Hola. Según la imagen que enviaste, tu calabaza tiene **Mildiú velloso (Downy Mildew)**, con una confianza del 85%.
+
+Sí, esta enfermedad **es contagiosa** para otras plantas de tu cultivo. Se dispersa fácilmente a través de esporas que son transportadas por el viento y el agua.
+
+Para manejar esta enfermedad y evitar que se propague, te sugiero lo siguiente:
+
+*   **Mejora la ventilación:** Asegúrate de que haya suficiente espacio entre las plantas y considera podar las hojas bajas para mejorar la circulación del aire.
+*   **Riego adecuado:** Riega temprano en la mañana para que las hojas se sequen rápidamente durante el día. Evita regar por aspersión durante la noche.
+*   **Limpieza:** Elimina los restos de cosecha y las hojas infectadas para reducir las fuentes de esporas.
+*   **Monitoreo:** Vigila tus plantas con frecuencia, especialmente en épocas de mucha humedad, ya que esta enfermedad puede avanzar muy rápido.
+*   **Tratamiento:** Si la infección no está muy avanzada, puedes usar fungicidas preventivos a base de cobre o productos específicos para este tipo de microorganismos. Es importante rotar los productos para evitar que el patógeno se vuelva resistente.
+
+Para las dosis y los productos autorizados en tu zona, te recomiendo consultar con un ingeniero agrónomo local.","Hola.
+
+Según el análisis, la enfermedad detectada en tu calabaza es **Mildiú Velloso (Downy Mildew)**, con una confianza del 85%.
+
+Respecto a tu pregunta sobre si es contagioso para otras plantas del cultivo, el contexto que tengo disponible (el diagnóstico de la imagen) **no proporciona información sobre la capacidad de contagio** de esta enfermedad.
+
+Para saber si se propaga a otras plantas y cómo manejarlo, necesitarías consultar fuentes adicionales sobre el Mildiú Velloso en calabazas."
+Healthy_Leaf,95.0,¿Qué tratamiento le doy?,"¡Hola! Según la imagen que proporcionaste, el modelo de visión ha detectado que la hoja de tu calabaza está **saludable** con una confianza muy alta (95%).
+
+Esto significa que, por ahora, **no necesitas aplicar ningún tratamiento** para enfermedades. La información de tratamiento que tengo disponible es para otras enfermedades como el oídio, enfermedades virales o las causadas por oomicetos, pero como tu planta se ve sana, no es necesario usarla en este momento.
+
+Te recomiendo seguir monitoreando tus plantas regularmente para detectar cualquier cambio a tiempo. Si en el futuro notas algún síntoma de enfermedad, puedes enviar otra foto para una nueva evaluación.","¡Hola!
+
+Según el análisis de la imagen, tu hoja de calabaza parece estar **completamente sana**. La confianza en este diagnóstico es muy alta (95%).
+
+Dado que no se ha detectado ninguna enfermedad, **no necesitas aplicar ningún tratamiento específico para enfermedades en este momento**.
+
+Para mantener tus plantas saludables, te recomiendo seguir con tus buenas prácticas agrícolas habituales, como:
+*   Asegurarte de que reciban suficiente agua.
+*   Proporcionarles los nutrientes necesarios.
+*   Mantener el área libre de malezas.
+*   Revisar tus plantas regularmente para detectar cualquier cambio.
+
+¡Sigue así, parece que tus calabazas están en buen estado!"
+Mosaic_Disease,80.0,¿Qué tratamiento le doy?,"Hola. Según la imagen, tu calabaza parece tener la **enfermedad del mosaico**, con una confianza del 80%.
+
+Para esta enfermedad, es importante que sepas que **no existe un tratamiento químico que la cure** una vez que la planta está infectada. El manejo se enfoca en la prevención y en evitar que se propague a otras plantas.
+
+Aquí te dejo los pasos concretos que puedes seguir:
+
+1.  **Controla los insectos vectores:** Los pulgones (áfidos) son los principales transmisores de este virus. Debes monitorearlos y controlarlos para evitar que lleven la enfermedad de una planta a otra.
+2.  **Elimina plantas enfermas:** Tan pronto como detectes una planta con síntomas de mosaico (hojas con patrones de verde claro y oscuro, deformadas o arrugadas), quítala y destrúyela para que no sea una fuente de infección para el resto del cultivo.
+3.  **Desinfecta tus herramientas:** Si usas tijeras o cualquier herramienta para podar, asegúrate de desinfectarlas bien entre cada planta para no transmitir el virus.
+4.  **Controla las malezas:** Mantén limpias las áreas alrededor de tu cultivo, ya que algunas malezas pueden ser hospederas del virus.
+5.  **Considera variedades resistentes:** Si en tu región hay disponibles variedades de calabaza que sean resistentes a los virus, es una buena opción para futuras siembras.
+6.  **Lávate las manos:** Evita tocar plantas sanas después de haber estado en contacto con plantas infectadas sin antes lavarte bien las manos.
+
+Si ves que un porcentaje alto de tu cultivo está afectado, puede ser necesario evaluar si te conviene renovar la siembra con plantas sanas.","Hola. Según el análisis de la imagen, parece que tus calabazas tienen la **Enfermedad del Mosaico** con una confianza del 80%.
+
+Es importante saber que la Enfermedad del Mosaico es causada por un virus, y lamentablemente, **no existe un tratamiento químico directo para curar las plantas una vez que están infectadas**. El manejo se enfoca en prevenir su propagación y proteger las plantas sanas.
+
+Aquí te sugiero algunos pasos prácticos a seguir:
+
+1.  **Retira las plantas enfermas:** Las plantas que muestren síntomas claros de mosaico (hojas arrugadas, deformadas, con patrones de color verde claro y oscuro) deben ser retiradas y destruidas inmediatamente. Esto ayuda a evitar que el virus se propague a otras plantas sanas. No las compostes, ya que el virus podría sobrevivir.
+2.  **Controla los insectos:** El virus del mosaico es transmitido principalmente por insectos como los pulgones y los escarabajos del pepino. Inspecciona tus plantas regularmente y, si ves estos insectos, puedes usar jabón insecticida, aceites hortícolas o trampas amarillas pegajosas para controlarlos. Un buen control de plagas es clave para limitar la propagación.
+3.  **Higiene en el huerto:** Limpia tus herramientas de jardinería (tijeras, cuchillos) con alcohol o una solución de lejía diluida después de usarlas en plantas enfermas y antes de usarlas en plantas sanas. Esto evita que tú mismo transmitas el virus.
+4.  **Variedades resistentes:** Para futuras siembras, considera usar variedades de calabaza que sean resistentes a los virus del mosaico. Esto es una medida preventiva muy efectiva.
+5.  **Elimina malas hierbas:** Algunas malas hierbas pueden ser reservorios del virus, así que mantén el área del cultivo libre de ellas.
+
+Recuerda que la clave con las enfermedades virales es la prevención y el control de la propagación."
+Powdery_Mildew,78.0,¿Qué tratamiento le doy?,"Hola. Según el análisis de la imagen, tus calabazas tienen **Mildiú Polvoriento** (Powdery Mildew), con una confianza del 78%.
+
+Esta es una enfermedad fúngica común que se ve como manchas blancas con aspecto de polvo en las hojas.
+
+Para el tratamiento, te sugiero lo siguiente:
+
+1.  **Fungicidas:** Si la infección no está muy avanzada, puedes usar fungicidas específicos para oídios. Es importante aplicarlos lo antes posible.
+2.  **Opciones orgánicas:** También puedes considerar aplicar azufre o productos a base de bicarbonato de potasio. Asegúrate siempre de seguir las instrucciones de la etiqueta del producto.
+3.  **Evita la resistencia:** Para que el hongo no se vuelva resistente a los tratamientos, es bueno rotar los productos que uses, es decir, no usar siempre el mismo tipo de fungicida.
+4.  **Consulta local:** Si la infección ya está muy extendida o no estás seguro de qué producto usar, lo mejor es que consultes con un ingeniero agrónomo de tu zona. Él podrá darte las dosis exactas y recomendarte los productos autorizados para tu región.
+
+Recuerda que el Mildiú Polvoriento se dispersa por el viento y puede desarrollarse incluso con poca humedad, así que la prevención y el tratamiento temprano son clave.","Hola.
+
+Según el análisis de la imagen, tu calabaza tiene **Oídio (Powdery Mildew)** con una confianza del 78%. Esta confianza es bastante buena, pero siempre es útil que tú mismo observes los síntomas para confirmarlo.
+
+El Oídio se ve como manchas blancas y polvorientas, como si hubieran espolvoreado harina, principalmente en la parte superior de las hojas, tallos y a veces en los frutos.
+
+Para tratar el Oídio, te sugiero lo siguiente:
+
+1.  **Elimina las partes afectadas:** Con cuidado, retira las hojas o partes de la planta que estén muy cubiertas de este polvo blanco. Deséchalas lejos del cultivo para evitar que las esporas se propaguen.
+2.  **Mejora la circulación de aire:** Si las plantas están muy juntas, esto puede favorecer el Oídio. Intenta podar algunas hojas interiores para que el aire circule mejor entre las plantas.
+3.  **Aplica un fungicida:** Busca un fungicida específico para Oídio que sea apto para calabazas. Hay opciones orgánicas como los basados en azufre o bicarbonato de potasio, y también químicos. Sigue siempre las instrucciones del producto para la dosis y frecuencia de aplicación. Es importante aplicar el fungicida tan pronto como veas los primeros síntomas.
+4.  **Riego adecuado:** Evita regar las hojas por la tarde o noche, ya que la humedad prolongada puede favorecer la enfermedad. Riega por la mañana y directamente a la base de la planta.
+
+Recuerda que la clave es actuar rápido para evitar que se extienda por todo el cultivo."
